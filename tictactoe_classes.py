@@ -113,7 +113,7 @@ class TicTacToe:
             return True
         return False
 
-    def check_draw(self):       # enter draw: 1, 3, 2, 4, 6, 9. 7, 5, 8
+    def check_draw(self):
         """ Checks if the game board is filled with nine markers. """
         if self.filled_positions == 9:
             print("\n" + "".center(VAL, "-"))
