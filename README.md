@@ -1,4 +1,4 @@
-# TicTacToe-OOP
+# TicTacToe
 
 A Terminal command-line implementation of the classic Tic-Tac-Toe game programmed using Object Oriented Programming (OOP) in Python. This repository contains a classes script and a main script. 
 
