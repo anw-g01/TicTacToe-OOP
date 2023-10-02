@@ -1,5 +1,7 @@
 # Tic-Tac-Toe with Python
 
-A Terminal command-line implementation of the classic Tic-Tac-Toe game programmed using Object Oriented Programming (OOP) in Python. This repository contains a classes script and a main script. 
+This project is a command-line implementation of the classic game of Tic-Tac-Toe programmed using Object Oriented Programming (OOP) in Python. It allows two players to take turns and compete against each other to achieve 3-in-a-row with either naughts (`O`) or crosses (`X`). The program is optimised to run in the terminal command line for clean and aesthetic text displays that refresh accordingly. 
 
-The program allows two players to take turns playing naughts and crosses an unliminted amount of times if chosen. Command-line visuals include displays of the current board state as well as game statistics presenting player win percentages, draws and first-turns. Player first turns and marker types are completely randomised at the start of each game.
+## Project Files
+1. `main.py`: Initialises and handles the game logic by utilising and implementing all definied game objects, attributes and their methods. 
+2. `tictactoe_classes.py`: Contains definitions of essential classes to represent players, the board and game statistics for use in the main program logic.
